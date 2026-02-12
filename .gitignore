@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files (video hosted externally - google drive)
+*.mp4
+decentro_kyc_demo.mp4
