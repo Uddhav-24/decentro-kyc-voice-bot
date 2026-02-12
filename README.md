@@ -1,4 +1,4 @@
-# KYC Voice Verification Bot
+# Decentro KYC Voice Verification Bot
 
 A Python voice bot for Decentro fintech platform for KYC verification that collects user details through speech interaction.
 
